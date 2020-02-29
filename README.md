@@ -7,6 +7,12 @@ Requirements
 ------------
 In order to build dmenu you need the Xlib header files.
 
+Added Features
+------------
+- Border
+- Center
+- Line Height
+
 
 Installation
 ------------
