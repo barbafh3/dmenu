@@ -12,6 +12,7 @@ Added Features
 - Border
 - Center
 - Line Height
+- Pywal Colors ([github](https://github.com/dylanaraps/pywal))
 
 
 Installation
